@@ -1,0 +1,229 @@
+Unnamed: 0,pos,title,merchant,price,rating,reviews_count,product
+0,1,Apple iPad (10th Generation),Amazon.com,299.0,4.8,41000.0,iPad
+1,2,Apple iPad (9th Generation),Best Buy,199.99,4.8,82000.0,iPad
+2,3,Apple iPad (5th Generation),Walmart - UPGRADE SOLUTION INC,124.0,4.6,13000.0,iPad
+3,4,"Apple iPad Air (M2, 2024)",Apple,599.0,4.8,2000.0,iPad
+4,5,Apple iPad Pro 3rd Generation (12.9),FoneZone.me,408.39,4.6,2000.0,iPad
+5,6,"Apple iPad Pro (M4, 2024)",T-Mobile,1199.99,4.7,2000.0,iPad
+6,7,Apple iPad 10th Generation 10.9-inch Wi-Fi 64GB Yellow,Best Buy,13.87,5.0,2.0,iPad
+7,8,"Apple iPad Pro (M4, 2024)",T-Mobile,1199.99,4.7,2000.0,iPad
+8,9,Apple iPad 10th Generation 10.9-inch Wi-Fi 64GB Yellow,Best Buy,13.87,5.0,2.0,iPad
+9,10,Apple iPad (7th Generation),Walmart - Noble Planet Inc.,199.95,4.6,12000.0,iPad
+10,11,Apple iPad Air 2,Amazon.com - Seller,90.38,4.5,18000.0,iPad
+11,12,"Apple iPad Air 9.7"" 16GB Wi-Fi",FoneZone.me,35.39,4.3,11000.0,iPad
+12,13,Apple iPad Air,Apple,469.0,4.8,12000.0,iPad
+13,14,Apple - 10.9-Inch iPad - Latest Model - (10th Generation) with Wi-Fi + Cellular - 64GB - Blue (Verizon) - 36 monthly installments,Best Buy,9.69,4.8,41000.0,iPad
+14,15,"Apple iPad Air 10.5-inch 256GB Wi-Fi Only (2019, 3rd Generation)",Walmart - Noble Planet Inc.,244.95,3.3,14.0,iPad
+15,16,Apple iPad Air 4,Target,549.99,4.7,8500.0,iPad
+16,17,Apple iPad Pro 11,Sam's Club,849.0,4.5,6200.0,iPad
+17,18,Apple iPad Pro,Back Market,660.28,4.8,3200.0,iPad
+18,19,Apple iPad Pro 10.5-inch 64GB Wi-Fi,Amazon.com - Seller,186.0,4.7,1800.0,iPad
+19,20,Apple iPad 10.2-inch Wi-Fi 64GB Space Gray (2021),Walmart - Gadget Replay,222.48,4.9,20000.0,iPad
+20,21,Apple iPad Pro Wi-Fi + Cellular standard glass,Apple,999.0,4.8,711.0,iPad
+21,22,Apple iPad Air (5th generation),PC Richard & Son,499.0,4.8,11000.0,iPad
+22,23,Apple 12.9 inch iPad Pro,Best Buy,1399.0,4.8,4700.0,iPad
+23,24,Apple iPad Pro 10.5-inch 64GB Space Gray,Amazon.com - Seller,186.0,4.5,1900.0,iPad
+24,25,Apple iPad (8th Generation),Walmart - Noble Planet Inc.,194.95,4.8,15000.0,iPad
+25,26,"Apple iPad 10th Gen 64GB Wi-Fi 10.9"" Silver (2022)",B&H Photo-Video-Audio,319.0,4.5,28.0,iPad
+26,27,Apple iPad Pro 12.9-inch (2nd generation),Reebelo USA,406.0,4.7,3200.0,iPad
+27,28,Apple iPad (10th Generation) 64GB in Blue | Verizon (with 36 monthly installment payments + plan),Verizon,13.88,4.8,41000.0,iPad
+28,29,Apple iPad mini (6th generation),Amazon.com,389.0,4.8,14000.0,iPad
+29,30,2021 Apple 10.2-inch iPad and Apple Pencil,Walmart,313.97,4.9,20000.0,iPad
+30,31,iPad 9th Generation Wi-Fi 64GB,Apple,249.0,4.9,20000.0,iPad
+31,32,Apple iPad (6th Generation),eBay,105.0,4.5,20000.0,iPad
+32,33,Apple iPad 10th Generation (2022) - 64GB - Blue - With Contract and 36 Installment Payments,AT&T,13.89,4.8,41000.0,iPad
+33,34,Restored Apple iPad 7th,Amazon.com - Seller,144.0,4.5,5000.0,iPad
+34,35,Apple iPad Air 1 16GB Silver - AT&T Locked - Acceptable,Walmart - Noble Planet Inc.,79.97,4.2,647.0,iPad
+35,36,Apple iPad 11-inch Air Wi-Fi,SHI International,685.0,4.7,2900.0,iPad
+36,37,Apple iPad 16GB WiFi,Triveni World,27.82,0.0,0.0,iPad
+37,38,Apple iPad Mini,Apple,419.0,4.6,2200.0,iPad
+38,39,"Apple iPad Air 10.9"" Wi-Fi 64GB Space Gray",Back Market,294.99,4.8,333.0,iPad
+39,40,Apple iPad Pro 9.7-inch WiFi,Walmart - Certified Refurbished Store,179.0,4.5,391.0,iPad
+40,41,Apple iPad 10th Gen WiFi + Cellular Unlocked 64GB Blue,Best Buy,449.0,4.8,223.0,iPad
+41,42,"Apple iPad Air 11-inch (M2): Built for Apple Intelligence, Liquid Retina Display, 128GB, 12MP Front/Back Camera, Wi-Fi 6E, Touch ID, All-Day Battery",Amazon.com,545.0,4.7,2900.0,iPad
+42,43,Apple iPad 10th Generation 10.9-inch Wi-Fi 64GB Pink,Staples,449.99,4.4,11.0,iPad
+43,44,Apple iPad Mini 5,Follett's Purdue Bookstore,379.0,4.7,4000.0,iPad
+44,45,Apple iPad Mini 4,Walmart - LTechMart,108.99,4.5,11000.0,iPad
+45,46,Apple iPad Pro 9.7-inch,Mac of All Trades,119.99,0.0,0.0,iPad
+46,47,"Apple iPad Pro 11"" 128GB Wi-Fi Space Gray",Target,799.99,4.7,4700.0,iPad
+0,1,Apple iPhone 16,Apple,829.0,4.2,142.0,iPhone
+1,2,Apple iPhone 16 Plus,T-Mobile,1229.99,4.4,84.0,iPhone
+2,3,Apple iPhone 11 128GB Red AT&T Locked Grade B,Walmart - Hybrid IT,55.0,3.4,3500.0,iPhone
+3,4,Apple iPhone 13,Total Wireless,360.0,4.7,56000.0,iPhone
+4,5,Apple iPhone 12 - 64 GB - Black (with Mobile Phone Plan) - Boost Mobile,Boost Mobile,149.99,4.5,44000.0,iPhone
+5,6,Apple iPhone 16 Pro,Apple,999.0,4.0,585.0,iPhone
+6,7,Apple iPhone 15 Pro,T-Mobile,899.99,4.4,15000.0,iPhone
+7,8,Apple iPhone 15,Verizon,20.27,4.6,17000.0,iPhone
+8,9,Apple iPhone 11,Amazon.com - Seller,229.99,4.6,105000.0,iPhone
+9,10,Apple iPhone 12 64GB Black - Available With Cricket Wireless Plan,Cricket Wireless,199.99,4.5,44000.0,iPhone
+10,11,Apple iPhone 16 Pro Max,Apple,1599.0,3.9,938.0,iPhone
+11,12,Apple iPhone 15 Pro Max,T-Mobile,1099.99,4.3,15000.0,iPhone
+12,13,Restored Apple iPhone 14 Pro,Walmart - BuySPRY,540.16,4.6,13000.0,iPhone
+13,14,Apple iPhone 12,Back Market,274.99,4.5,44000.0,iPhone
+14,15,Apple iPhone 14,Verizon,17.49,4.6,25000.0,iPhone
+15,16,Apple iPhone 15 Plus,Apple,23.03,4.6,5900.0,iPhone
+16,17,Apple iPhone SE (3rd generation),T-Mobile,429.99,4.5,16000.0,iPhone
+17,18,Apple iPhone SE Unlocked,Walmart,179.0,4.4,15000.0,iPhone
+18,19,Apple iPhone 13 Pro Max,Amazon.com,1199.0,4.6,13000.0,iPhone
+19,20,Apple iPhone 16 - 128GB - Ultramarine - With Contract and 36 Installment Payments,AT&T,23.06,4.5,253.0,iPhone
+20,21,Apple iPhone 14 Plus,Apple,729.0,4.6,11000.0,iPhone
+21,22,Apple iPhone XR,Back Market,161.62,4.5,58000.0,iPhone
+22,23,Apple iPhone 11 Prepaid Smartphone,Walmart,249.0,4.0,21.0,iPhone
+23,24,Apple iPhone 12 Pro,Reebelo USA,351.99,4.5,15000.0,iPhone
+24,25,Apple iPhone XS,Amazon.com - Seller,174.0,4.5,19000.0,iPhone
+25,26,Apple iPhone 14 in Purple 128GB - with payment plan | by Consumer Cellular,Consumer Cellular,29.0,4.6,25000.0,iPhone
+26,27,Apple iPhone 12 mini,Back Market,205.72,4.5,17000.0,iPhone
+27,28,Apple iPhone SE,Walmart - UPGRADE SOLUTION INC,72.0,4.5,28000.0,iPhone
+28,29,Apple iPhone 16 - Ultramarine - 512GB (with plan),T-Mobile,1129.99,4.5,253.0,iPhone
+29,30,Apple iPhone 13 128GB Red,Cellcom,14.73,4.3,4000.0,iPhone
+30,31,Apple iPhone 16 - 256 GB - Pink (with Mobile Phone Plan) - Boost Mobile,Boost Mobile,929.99,4.5,253.0,iPhone
+31,32,iPhone 13 128GB - Midnight - Unlocked,Back Market,372.39,4.7,56000.0,iPhone
+32,33,Apple iPhone 16 - 256GB - Pink - With Contract and 36 Installment Payments,AT&T,25.84,4.2,142.0,iPhone
+33,34,Apple iPhone 13 128GB Green Refurbished,Walmart - Kiss Electronics Inc,374.97,3.3,860.0,iPhone
+34,35,Apple iPhone 14 Pro Max,Reebelo USA,610.0,4.7,19000.0,iPhone
+35,36,Apple iPhone 14 - Purple - 128GB (with 24 monthly payments + plan),T-Mobile,629.99,4.6,25000.0,iPhone
+36,37,Apple - iPhone 16 Pro 256GB - Apple Intelligence - Black Titanium (AT&T) - 36 monthly installments,Best Buy,30.56,4.0,585.0,iPhone
+37,38,Apple iPhone X,Back Market,182.99,4.4,31000.0,iPhone
+38,39,Apple iPhone 12 64GB (PRODUCT)RED Fully Unlocked Renewed,Walmart - Hybrid IT,267.5,3.5,3300.0,iPhone
+39,40,Apple iPhone 13 Pro,eBay - west.coast.deals,659.99,4.7,11000.0,iPhone
+0,1,Apple MacBook Air M2,Best Buy,749.0,4.8,19000.0,Macbook
+1,2,Apple MacBook Pro Core,Amazon.com - Seller,309.0,4.7,28000.0,Macbook
+2,3,Apple MacBook Air,Walmart,649.0,4.8,37000.0,Macbook
+3,4,Apple MacBook Pro 16 M3,Apple,2499.0,4.8,21000.0,Macbook
+4,5,Apple MacBook Pro,Back Market,396.0,4.2,162.0,Macbook
+5,6,Apple MacBook Air M3 13,Best Buy,849.0,4.8,3000.0,Macbook
+6,7,Apple MacBook Pro Core i5 SSD,eBay - ever_green,415.0,4.7,28000.0,Macbook
+7,8,Apple MacBook Air M3 13,Best Buy,849.0,4.8,3000.0,Macbook
+8,9,Apple MacBook Pro Core i5 SSD,eBay - ever_green,415.0,4.7,28000.0,Macbook
+9,10,"Apple MacBook Pro (16"", Late 2019)",OWC,619.0,4.7,2000.0,Macbook
+10,11,Apple MacBook Pro 14 M3,B&H Photo-Video-Audio,1799.0,4.9,4000.0,Macbook
+11,12,"Apple MacBook Pro 15"" Retina Display (Refurbished)",Swappa,464.0,4.5,27.0,Macbook
+12,13,Apple MacBook Air M3 15,Best Buy,1044.0,4.8,1300.0,Macbook
+13,14,"Apple MacBook Air 13"" Core i5",StackSocial,249.97,4.4,5900.0,Macbook
+14,15,Apple MacBook Air Core i5 1.6GHz 8GB SSD,Walmart - JVCOM,479.0,4.6,2200.0,Macbook
+15,16,Apple MacBook Air Core,Back Market,111.9,4.7,18000.0,Macbook
+16,17,Apple 15.4-inch MacBook Pro Core i7 16gb SSD,OWC,379.0,4.8,23000.0,Macbook
+17,18,Apple MacBook Air Apple M2,Best Buy,1049.0,4.9,7300.0,Macbook
+18,19,Apple MacBook Pro 13-inch 2.3GHz Core i5 (Mid 2017),Mac of All Trades,319.99,4.7,28000.0,Macbook
+19,20,Apple MacBook Pro i5,Walmart - JVCOM,269.99,4.7,24000.0,Macbook
+20,21,"Apple MacBook Air (13"", Mid 2019)",Back Market,299.59,4.7,2700.0,Macbook
+21,22,"Apple MacBook Air (13"", Mid 2017)",PickYourPlum,264.99,4.7,16000.0,Macbook
+22,23,Apple 14-Inch MacBook Pro Apple M3 Chip,Best Buy,1299.0,4.8,1700.0,Macbook
+23,24,"Apple MacBook 12-inch, Retina - 2017 Gold / 16GB / 512GB",shopsimpletronics.com,749.99,0.0,0.0,Macbook
+24,25,"Apple MacBook Pro 15"" Retina Touch Bar Intel Core i7",Reebelo USA,364.55,4.8,23000.0,Macbook
+25,26,Apple MacBook Pro M2 chip,Back Market,824.38,4.8,2400.0,Macbook
+26,27,Apple MacBook Pro M1,Amazon.com - Seller,1649.0,4.8,1600.0,Macbook
+27,28,"Apple 14"" MacBook Pro",University of South Florida Tampa,1849.0,4.9,4000.0,Macbook
+28,29,Apple MacBook 12-Inch 1.2GHz 8GB 256GB SSD Gold,DailySteals,264.99,4.7,4500.0,Macbook
+29,30,"Apple 13"" MacBook Air (M3, Midnight)",B&H Photo-Video-Audio,1199.0,4.8,3000.0,Macbook
+30,31,Apple MacBook Pro Core i7 16gb SSD,Back Market,397.7,4.6,23000.0,Macbook
+31,32,"Apple MacBook Pro 13.3"" Core i5 (2017)",Walmart - JVCOM,338.73,3.8,9.0,Macbook
+32,33,"Macbook Pro 13.3-inch (Retina, Space Gray, Touch Bar) 2.4Ghz Quad Core i5 (2019) MV962LL/A",GainSaver,589.0,4.8,22000.0,Macbook
+33,34,"Apple MacBook Air 13.3"" M1 Chip (Late 2020)",The Refurbished Apple Store,649.99,4.8,37000.0,Macbook
+34,35,"Apple 16"" MacBook Pro Laptop M2 Max",Amazon.com - Seller,1869.99,4.7,266.0,Macbook
+35,36,MacBook Air (2020) 13.3-inch - Apple M1 8-core and 7-core GPU - 8GB RAM - SSD 128GB,Back Market,471.0,4.8,37000.0,Macbook
+36,37,Apple MacBook Air 13-inch M1 Chip with 8-Core CPU (Late 2020),Mac of All Trades,474.99,4.8,12000.0,Macbook
+37,38,"Apple Macbook Pro 14"" M2 Pro 1TB with Accessories Bundle - Animal",HSN,2100.0,4.9,4000.0,Macbook
+38,39,"Apple MacBook Pro A1706 13"", Touch Bar, 2.9GHz Intel Core i5,16GB 256GB, Retina, Space Gray(Renewed)",Atlas Computers & Electronics,1158.48,4.7,28000.0,Macbook
+39,40,Apple MacBook Pro Core 16gb RAM SSD,Walmart - Direct Computer Outlet,699.99,4.6,1000.0,Macbook
+40,41,"Apple MacBook Air 13.3"" Core i5 (Early 2020)",Back Market,425.71,4.7,18000.0,Macbook
+41,42,Apple MacBook Pro 16-inch M3 Pro Chip (Refurbished),Apple,2119.0,4.8,21000.0,Macbook
+42,43,Restored Apple MacBook Pro Laptop M2 Pro chip,Amazon.com - Seller,1649.95,4.8,604.0,Macbook
+43,44,Apple MacBook Pro 13-inch,nopCommerce,1800.0,4.4,6600.0,Macbook
+44,45,"Apple MacBook Air 13"" Core i5 (2015)",WoodArtSupply,185.0,4.8,845.0,Macbook
+45,46,Restored Apple MacBook Air Core i5 4GB 128gb SSD 11.6 inch,Back Market,113.0,3.8,3400.0,Macbook
+46,47,"Apple 15"" MacBook Air (M3, Midnight)",B&H Photo-Video-Audio,2099.0,4.8,1300.0,Macbook
+0,1,Nintendo Switch Lite,Best Buy,209.99,4.7,5300.0,Nintendo
+1,2,Nintendo Switch,Target,299.99,4.5,3400.0,Nintendo
+2,3,Nintendo NES System,Walmart - Maries Market,129.95,4.4,1400.0,Nintendo
+3,4,Nintendo Switch Console,GameStop,239.99,4.7,7700.0,Nintendo
+4,5,Nintendo 2DS XL,Amazon.com - Seller,437.99,4.7,2600.0,Nintendo
+5,6,Nintendo Switch OLED,Nintendo,349.99,4.7,40000.0,Nintendo
+6,7,Nintendo Switch Fortnite Wildcat Limited Console Set,StockX,900.0,4.6,1200.0,Nintendo
+7,8,Nintendo Switch OLED,Nintendo,349.99,4.7,40000.0,Nintendo
+8,9,LEGO 71374 Nintendo Entertainment System,LEGO.com,269.99,4.7,1000.0,Nintendo
+9,10,"Nintendo NES Classic Edition Entertainment System, White",Walmart - Apex Express,89.99,4.5,3900.0,Nintendo
+10,11,Nintendo Switch with Joy-Con Controller,GameStop,239.99,4.7,78000.0,Nintendo
+11,12,Nintendo Switch OLED The Legend of Zelda,Amazon.com - Seller,344.99,4.5,2700.0,Nintendo
+12,13,Nintendo Switch Fortnite Wildcat Limited Console Set,StockX,900.0,4.6,1200.0,Nintendo
+13,14,Nintendo NES Console,DKOldies,164.99,4.6,509.0,Nintendo
+14,15,Super Nintendo Entertainment System SNES Classic Edition,Walmart - Apex Express,91.99,2.9,94.0,Nintendo
+15,16,Nintendo Wii U Console,GameStop,129.99,4.3,39.0,Nintendo
+16,17,Nintendo Switch Animal Crossing New,Amazon.com - Seller,359.0,4.8,6000.0,Nintendo
+17,18,Nintendo NES Classic Edition,eBay - hardench,95.0,4.5,3900.0,Nintendo
+18,19,Nintendo Switch OLED Model Pokemon Scarlet & Violet Limited Edition,Reebelo USA,269.0,4.8,14000.0,Nintendo
+19,20,"Nintendo Entertainment System with Super Mario Bros 1, 2, 3 and New NES 72 Pin Connector Installed",Walmart - RVAClassicGaming,294.95,3.3,9.0,Nintendo
+20,21,Nintendo 3DS,GameStop,199.99,4.6,7900.0,Nintendo
+21,22,Minecraft Creeper Edition for New Nintendo 2DS LL,Amazon.com - Seller,440.72,4.5,10.0,Nintendo
+22,23,Nintendo Switch 32GB Gaming System,Unclaimed Baggage,169.99,4.7,78000.0,Nintendo
+23,24,Minecraft Switch,Nintendo,29.99,4.7,15000.0,Nintendo
+24,25,Nintendo Wii Console,Walmart - Best Retro Games,75.97,4.6,2400.0,Nintendo
+25,26,Original Nintendo NES System Console w/Mario 123 & Zapper,DKOldies,229.99,4.4,1400.0,Nintendo
+26,27,Nintendo Switch Lite Animal Crossing Coral Pink,GameStop,179.99,4.7,5300.0,Nintendo
+27,28,Nintendo Super Classic,Newegg.com - InBulk Electronics,399.95,4.6,7200.0,Nintendo
+28,29,Nintendo Switch Joy-Con Pastel Pink,Nintendo,79.99,4.7,10000.0,Nintendo
+29,30,Nintendo Super NES Classic Edition,CaveGamers,249.99,4.5,653.0,Nintendo
+30,31,Nintendo SNES Console,Back Market,180.0,4.6,324.0,Nintendo
+31,32,Nintendo Switch Online Plus Expansion Pack,GameStop,79.99,4.7,8400.0,Nintendo
+32,33,Nintendo Switch Mario Red & Blue Limited Edition,Walmart - Direct Distributor,313.95,4.7,78000.0,Nintendo
+33,34,Original Nintendo NES Console w/Controller For Sale,DKOldies,89.99,4.4,1400.0,Nintendo
+34,35,Nintendo Switch Joy-Con,Nintendo,79.99,4.7,63000.0,Nintendo
+35,36,Nintendo Switch Online Month Membership Card,Target,19.99,4.7,8400.0,Nintendo
+36,37,Nintendo Switch Console with Gray Joy-Con Controller,GameStop,259.99,4.7,78000.0,Nintendo
+37,38,Nintendo 64,Walmart - Maries Market,124.96,4.6,3700.0,Nintendo
+38,39,Nintendo Classic Mini System Nes Game Console 30 Games Pre-installed,eBay - mrrelevant,94.99,4.5,3900.0,Nintendo
+39,40,Super Mario Bros. Wonder,Nintendo,59.99,4.8,17000.0,Nintendo
+40,41,Nintendo Wii U,CaveGamers,186.99,4.6,2600.0,Nintendo
+41,42,Nintendo 2DS Blue GameStop Premium Refurbished,GameStop,119.99,4.6,4000.0,Nintendo
+42,43,Nintendo Game Boy Advance SP Pearl Blue,Walmart - Gamer Girlz,145.19,4.6,2000.0,Nintendo
+43,44,Nintendo Switch Lite Pokemon Dialga & Palkia Limited Edition,Amazon.com - Seller,244.0,4.6,15.0,Nintendo
+44,45,Nintendo Mario Vs Donkey Kong,Nintendo,49.99,4.8,1500.0,Nintendo
+45,46,Nintendo Entertainment System: Nes Classic Edition With 30 Games,eBay,169.99,4.5,3900.0,Nintendo
+46,47,Nintendo 2DS White and Red GameStop Premium Refurbished,GameStop,119.99,4.6,4000.0,Nintendo
+0,1,PlayStation 5 Slim Disc Console,Amazon.com,449.0,4.7,17000.0,PlayStation
+1,2,PlayStation Portal Remote Player,PlayStation,199.99,4.4,6300.0,PlayStation
+2,3,PlayStation 5 Console with Marvel's Spider-Man 2,Target,499.99,4.5,47000.0,PlayStation
+3,4,Sony PlayStation 4 500GB Gaming Console,GameStop,139.99,3.9,95.0,PlayStation
+4,5,PlayStation 5 Slim Digital Edition NBA 2K25 Bundle,Best Buy,449.99,3.7,9.0,PlayStation
+5,6,PlayStation Body Slim Model Digital Edition,Walmart - VIPOUTLET,469.0,4.7,17000.0,PlayStation
+6,7,Sony PlayStation 5 Pro Console,PlayStation,699.99,4.7,55.0,PlayStation
+7,8,PlayStation Body Slim Model Digital Edition,Walmart - VIPOUTLET,469.0,4.7,17000.0,PlayStation
+8,9,Sony PlayStation 5 Pro Console,PlayStation,699.99,4.7,55.0,PlayStation
+9,10,Sony PlayStation 5 Slim Digital Edition,Target,399.99,4.7,6800.0,PlayStation
+10,11,PlayStation 5 Digital Edition Console,GameStop,389.99,4.5,9900.0,PlayStation
+11,12,Sony PlayStation 5 Digital Edition,Swappa,375.0,4.5,9900.0,PlayStation
+12,13,PlayStation Classic Console with 20 Classic PlayStation Games Pre-Installed Holiday Bundle,Walmart - Red Rocks Distributing,100.0,3.9,1200.0,PlayStation
+13,14,Sony PlayStation 5 Digital Edition 8K HDR 825 GB SSD Astro's Playroom,PlayStation,399.99,4.5,9900.0,PlayStation
+14,15,Sony PlayStation 4 Slim 500GB,Amazon.com - Seller,190.01,4.7,53000.0,PlayStation
+15,16,PlayStation 5 Digital Edition,GameStop,389.99,4.5,9900.0,PlayStation
+16,17,Sony PlayStation 5 Blu Ray Disk Standard Edition,Coast Guard Exchange,449.99,4.5,47000.0,PlayStation
+17,18,Sony PlayStation Classic Console with 20 PlayStation Games Pre-Installed,Walmart - Bargain Pros,127.7,3.9,1200.0,PlayStation
+18,19,Sony PlayStation 5 Console,PlayStation,449.99,4.5,47000.0,PlayStation
+19,20,Sony PlayStation 5 Digital Edition Console,Amazon.com - Seller,519.0,4.5,9900.0,PlayStation
+20,21,PlayStation 5 Console,GameStop,439.99,4.5,47000.0,PlayStation
+21,22,PlayStation 5 Slim Console with Marvel's Spider-Man 2 Bundle,StockX,559.0,4.7,17000.0,PlayStation
+22,23,Sony PlayStation Classic Edition Console,Walmart - Lightning Deals Group,79.99,3.9,1200.0,PlayStation
+23,24,Sony PlayStation 5 with God of War Ragnarok,BrandsMart USA,499.99,4.5,47000.0,PlayStation
+24,25,PlayStation 4 Pro 2TB 500 Million Limited Edition Console,eBay - authentic_jp,1483.99,4.7,18000.0,PlayStation
+25,26,Sony PlayStation 4 1TB Gold,GameStop,169.99,4.6,11000.0,PlayStation
+26,27,Sony PlayStation 5 Ultimate Bundle,Macy's,1199.0,0.0,0.0,PlayStation
+27,28,PlayStation 4 Console with Call of Duty Modern Warfare II,Amazon.com - Seller,379.95,4.6,11000.0,PlayStation
+28,29,PlayStation 4 Pro 1TB Limited Edition God of War Bundle,Walmart - Exquisite Dealz,399.95,4.7,18000.0,PlayStation
+29,30,PlayStation Console Limited Edition Bundle with Marvel's Spider-Man 2,Newegg.com - InBulk Electronics,1049.95,4.5,47000.0,PlayStation
+30,31,Sony PlayStation 4 Slim 500GB Console,GameStop,159.99,4.7,34000.0,PlayStation
+31,32,PlayStation 4 Slim 1TB Console,Back Market,171.83,4.7,53000.0,PlayStation
+32,33,Sony PlayStation 4 Slim Edition 1TB Console,Amazon.com - Seller,194.19,4.6,11000.0,PlayStation
+33,34,Sony PlayStation 4 Slim 500GB Black 2 Controller Included GTA V Game Bolt Axtion Bundle,Walmart - Gamer Girlz,249.99,4.6,11000.0,PlayStation
+34,35,PlayStation 5 Digital Console,Bloomingdale's,699.99,4.5,9900.0,PlayStation
+35,36,Sony PS5 Disc Edition Bundle with PlayStation Plus 24 Months Premium Membership,GameStop,689.99,4.3,6.0,PlayStation
+36,37,PlayStation 5 Console Horizon Forbidden West Bundle,StockX,492.0,4.5,47000.0,PlayStation
+37,38,Playstation Console With 6 Games,eBay,78.0,4.3,107.0,PlayStation
+38,39,Sony PlayStation 4 Pro 1TB Console,Walmart - L&Y Business,598.99,4.7,18000.0,PlayStation
+39,40,PlayStation Console Limited Edition Bundle with Marvel's Spider-Man 2,shopsimpletronics.com,1099.0,5.0,1.0,PlayStation
+40,41,Sony PlayStation 4 500GB Limited Edition Uncharted 4 Bundle,GameStop,159.99,4.7,34000.0,PlayStation
+41,42,Sony PlayStation 5 Console with Spider-Man 2,HSN,719.99,0.0,0.0,PlayStation
+42,43,PlayStation 5 Slim Console with Call of Duty Modern Warfare III,StockX,535.0,4.7,17000.0,PlayStation
+43,44,Sony PlayStation 4 Slim 1TB Black Astro A10 Gaming Bolt Axtion Bundle,Walmart - Gamer Girlz,199.99,4.6,11000.0,PlayStation
+44,45,Sony PS5 Slim Disc Bundle,Macy's,664.0,5.0,170.0,PlayStation
+45,46,PlayStation 4 Pro 1TB HDD,GameStop,209.99,4.7,18000.0,PlayStation
+46,47,PlayStation 5 Digital Edition God of War Ragnarök Bundle,eBay,587.78,4.5,9900.0,PlayStation
