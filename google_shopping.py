@@ -38,7 +38,7 @@ for query in queries:
             row = {
                 'pos': item.get('pos', None),
                 'title': item.get('title', None),
-                'merchant': item.get('merchant', None).get('name'),
+                'merchant': item.get('merchant', None).get('name', None),
                 'price': item.get('price', None),
                 'rating': item.get('rating', None),
                 'reviews_count': item.get('reviews_count', None)

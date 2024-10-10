@@ -1,16 +1,3 @@
-### A1 Group 5 ###
-# Name: Elaine Cao
-# AndrewID: yilingca
-
-# Name: Jane Wu
-# AndrewID: sjanew2
-
-# Name: Pleng Witayaweerasak
-# AndrewID: pwitayaw
-
-# Name: Shreyas Nopany
-# AndrewID: snopany
-
 from data_loader import load_data
 from user_interface import run_interface
 

@@ -1,3 +1,16 @@
+### A1 Group 5 ###
+# Name: Elaine Cao
+# AndrewID: yilingca
+
+# Name: Jane Wu
+# AndrewID: sjanew2
+
+# Name: Pleng Witayaweerasak
+# AndrewID: pwitayaw
+
+# Name: Shreyas Nopany
+# AndrewID: snopany
+
 import tkinter as tk
 from tkinter import ttk
 from PIL import Image, ImageTk
