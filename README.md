@@ -2,6 +2,12 @@
 
 This project is designed to analyze product data from multiple sources such as Amazon, Best Buy, Google Shopping, and Walmart. It provides insights into the top products based on various metrics including price, ratings, review counts, and sentiment analysis. The tool is aimed at helping users make informed purchasing decisions by identifying the best value products across these platforms.
 
+# Collaborators
+- Pleng Witayaweerasak
+- Shreyas Nopany
+- Elaine Cao
+- Jane Wu
+
 # Features
 - **Data Loading**: Load product data from various formats including CSV and JSON.
 - **Data Processing**: Normalize data and calculate combined scores based on weighted metrics for price, rating, and reviews.
